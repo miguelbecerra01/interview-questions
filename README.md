@@ -1,3 +1,3 @@
-# AlgoCasts
+# Interview 
 
-Companion repo to a course on Udemy.com
+Exercises for interviews
